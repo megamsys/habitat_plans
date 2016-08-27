@@ -1,15 +1,3 @@
-
-pkg_dirname=${pkg_distname}-${pkg_version}
-
-pkg_lib_dirs=(lib)
-pkg_include_dirs=(include)
-pkg_shasum=sha256sum
-pkg_deps=()
-pkg_build_deps=()
-pkg_bin_dirs=(bin)
-pkg_include_dirs=(include)
-pkg_lib_dirs=(lib)
-
 pkg_name=nilavu
 pkg_version=1.5.rc0
 pkg_origin=megamio
